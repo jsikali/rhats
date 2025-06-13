@@ -1,6 +1,6 @@
-be me
-have new idea
-delete all old code and assume this idea is feasible
+be me  
+have new idea  
+delete all old code and assume this idea is feasible  
 
 lol i hope this works
 
