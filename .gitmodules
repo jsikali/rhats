@@ -1,0 +1,3 @@
+[submodule "resources"]
+	path = rhatsources
+	url = https://github.com/jsikali/rhatsources.git
