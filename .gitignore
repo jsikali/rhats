@@ -1,1 +1,4 @@
 */
+!/rhatsources
+rhatsources/*/ 
+# ^ in case i fucked up the submodule lol
